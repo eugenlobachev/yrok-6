@@ -1,0 +1,15 @@
+/Users/evgenij/yrok 6/bin/Debug/net6.0/yrok 6
+/Users/evgenij/yrok 6/bin/Debug/net6.0/yrok 6.deps.json
+/Users/evgenij/yrok 6/bin/Debug/net6.0/yrok 6.runtimeconfig.json
+/Users/evgenij/yrok 6/bin/Debug/net6.0/yrok 6.dll
+/Users/evgenij/yrok 6/bin/Debug/net6.0/yrok 6.pdb
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.csproj.AssemblyReference.cache
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.AssemblyInfoInputs.cache
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.AssemblyInfo.cs
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.csproj.CoreCompileInputs.cache
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.dll
+/Users/evgenij/yrok 6/obj/Debug/net6.0/refint/yrok 6.dll
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.pdb
+/Users/evgenij/yrok 6/obj/Debug/net6.0/yrok 6.genruntimeconfig.cache
+/Users/evgenij/yrok 6/obj/Debug/net6.0/ref/yrok 6.dll
